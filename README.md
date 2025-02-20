@@ -9,6 +9,10 @@ A lightweight, responsive navbar that dynamically highlights the active section 
 - **Fully Responsive** – Works well on all screen sizes.
 - **Animated Social Media Footer** – Interactive hover effects on social icons.
 
+## Live Demo
+[Click here to view the project](https://reek02.github.io/Active-Scroll-Navbar-with-Smooth-Transitions/)
+
+
 ## Installation
 
 1. Clone this repository:
